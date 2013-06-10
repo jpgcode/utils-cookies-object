@@ -13,4 +13,4 @@ Remove: Remove a existing cookie
 
 SPECIAL THANKS TO: <br />
 
-Mario Vega - mvegacr@gmail.com
+Mario Vega - https://github.com/mvegacr
